@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 main(){
 	int a;
 	int b;
@@ -12,6 +13,6 @@ main(){
 	scanf("%d", &b);
 	printf("Enter value for c: ");
 	scanf("%d", &c);
-	scanf("%d", d);
 	d = (a+b+c/3);
+	printf("%d", d);
 }
