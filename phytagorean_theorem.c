@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 main(){
-	int a;
-	int b;
-	int c;
+	int x;
+	int y;
+	int z;
 	
-	printf("Enter value for a: ");
-	scanf("%d", &a);
-	printf("Enter value for b: ");
-	scanf("%d", &b);
-	printf("%d", c = sqrt((a*a)+(b*b)));
+	printf("Enter value for x: ");
+	scanf("%d", &x);
+	printf("Enter value for y: ");
+	scanf("%d", &y);
+	printf("%d", z = sqrt((x*x)+(y*y)));
 }
