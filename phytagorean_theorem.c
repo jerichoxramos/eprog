@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 main(){
-	int x;
-	int y;
-	int z;
+	int a;
+	int b;
+	int c;
 	
 	printf("Enter value for a: ");
 	scanf("%d", &a);
