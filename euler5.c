@@ -10,5 +10,5 @@ int main(){
 		  }
 		  
 	}
-	printf("%d",y);
+		printf("%d",y);
 }
