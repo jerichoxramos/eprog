@@ -9,7 +9,7 @@ int main()
         if(y%2 == 1) 
 		      { 
             
-            printf("%d", y);  
+            printf("%d\n", y);  
           }  
     }  
    
