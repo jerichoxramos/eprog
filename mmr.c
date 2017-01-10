@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main()
-{
+int main(){
+  
 int MMR1, MMR2, d;
 printf("Enter the first value:");
 scanf("%d", &MMR1);
