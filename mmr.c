@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main()
 {
-int x, y, z;
+int MMR1, MMR2, d;
 printf("Enter the first value:");
-scanf("%d", &x);
+scanf("%d", &MMR1);
 printf("Enter the second value:");
-scanf("%d", &y);
-z = x - y;
-printf("%d - %d = %d\n", x, y, z);
+scanf("%d", &MMR2);
+d = MMR1 - MMR2;
+printf("%d - %d = %d\n", MMR1, MMR2, d);
 return 0;
 }
